@@ -1,0 +1,17 @@
+body {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+main {
+    width: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
